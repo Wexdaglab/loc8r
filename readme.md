@@ -32,4 +32,7 @@ Then change into the folder the git clone command will create:
 
 And finally install the dependencies:
 
-`npm install`
+`npm install`# loc8r
+# loc8r
+# loc8r
+# loc8r
